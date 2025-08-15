@@ -3,8 +3,8 @@ build/
 cmake-build-*/
 
 # Compiled binaries
-throttlebox
-test_*
+/throttlebox
+/test_*
 *.exe
 *.out
 
