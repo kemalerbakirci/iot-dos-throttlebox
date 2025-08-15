@@ -1,0 +1,45 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled binaries
+throttlebox
+test_*
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Configuration files (optional, uncomment if you don't want to track configs)
+# config/*.yaml
+# config/*.json
+
+# Test artifacts
+test_*.yaml
+test_*.json
