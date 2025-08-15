@@ -280,11 +280,6 @@ telnet localhost 1884
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
-
-- 📧 Email: support@your-org.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-org/iot-dos-throttlebox/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-org/iot-dos-throttlebox/discussions)
 
 ## 🙏 Acknowledgments
 
